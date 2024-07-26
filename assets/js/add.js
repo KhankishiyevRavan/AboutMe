@@ -347,3 +347,4 @@ certificatesData.map((certificate) => {
   `;
   certificatesDiv.append(div);
 });
+
