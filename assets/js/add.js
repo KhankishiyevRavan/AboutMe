@@ -273,7 +273,7 @@ const certificatesData = [
     date: "14 July 2024",
   },
   {
-    imageUrl: "./assets/image/certificates/js_basic.png.png",
+    imageUrl: "./assets/image/certificates/js_basic.png",
     companyImageUrl: "./assets/image/HackerRank_Icon-1000px.png",
     name: "JavaScript (Basic)",
     membershipID: "Membership ID: @KhankishiyevRavan",
